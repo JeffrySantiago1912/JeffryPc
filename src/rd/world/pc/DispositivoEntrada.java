@@ -2,6 +2,7 @@ package rd.world.pc;
 
 public class DispositivoEntrada {
 
+    //pepe
     private String tipoEntrada;
     private String marca;
 
